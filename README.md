@@ -15,7 +15,7 @@ Additionally, an AWS Keyspaces keyspace and an AWS MSK cluster are required for 
     - Replace the application.conf in both backend and storm modules
 
 - AWS MSKS
-  - The AWS Key Id and AWS Secret Key needed to be provided as Java system properties for both backend and storm modules
+  - The AWS Key Id and AWS Secret Key need to be provided as Java system properties for both backend and storm modules
   
 
 # Overview
