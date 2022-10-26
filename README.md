@@ -22,7 +22,7 @@ Additionally, an AWS Keyspaces keyspace and an AWS MSK cluster are required for 
 
 This project is a naive implementation of a real-time recommendation system proposed by Tencent. [Tencent Rec Paper](https://dl.acm.org/doi/10.1145/2723372.2742785)
 
-The backend moudle contains the endpoints whereas the storm module includes the definition for the topology to process real-time user events. The frontend is not yet completed. 
+The backend module contains the endpoints whereas the storm module includes the definition for the topology to process real-time user events. The frontend is not yet completed. 
 
 | Endpoint  | HTTP Methods | Request Body | RequestParameter | Description
 | ------------- | ------------- | ------------- | ------------- | ------------- |
