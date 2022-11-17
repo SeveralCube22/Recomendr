@@ -16,6 +16,7 @@ Additionally, an AWS Keyspaces keyspace and an AWS MSK cluster are required for 
 
 - AWS MSK
   - The AWS Key Id and AWS Secret Key need to be provided as Java system properties for both backend and storm modules
+  - Need to specify endpoint for MSK cluster and topic name as well
   
 
 # Overview
